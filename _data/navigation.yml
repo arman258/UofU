@@ -1,0 +1,14 @@
+main:
+  - title: "How To"
+    url: /docs/test1
+    
+  - title: "Home"
+    url: /
+
+docs:
+  - title: Getting Started
+    children:
+      - title: "Installation"
+        url: /docs/test1
+      - title: "Configuration"
+        url: /docs/test2
