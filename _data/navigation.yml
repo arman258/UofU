@@ -1,14 +1,26 @@
 main:
-  - title: "How To"
-    url: /docs/test1
+  - title: "اطلاعات"
+    url: /docs/about
     
-  - title: "Home"
+  - title: "صفحه اصلی"
     url: /
 
 docs:
-  - title: Getting Started
+  - title: "بیشتر بدانید"
     children:
-      - title: "Installation"
-        url: /docs/test1
-      - title: "Configuration"
-        url: /docs/test2
+      - title: "اپلای کردن برای دانشگاه"
+        url: /docs/applying
+      - title: "ویزا"
+        url: /docs/visa
+  - title: "قبل از آمدن"
+    children:
+      - title: "مسکن"
+        url: /docs/accommodation
+      - title: "وسایل مورد نیاز"
+        url: /docs/packing
+  - title: "بعد از آمدن"
+    children:
+      - title: "اوریانتیشن"
+        url: /docs/orientation
+      - title: "بیمه"
+        url: /docs/healthcare
