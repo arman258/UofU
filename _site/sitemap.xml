@@ -1,24 +1,24 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 <url>
-<loc>http://localhost:4000/docs/after-arrival/</loc>
+<loc>http://localhost:4000/UofU/docs/after-arrival/</loc>
 </url>
 <url>
-<loc>http://localhost:4000/docs/applying/</loc>
+<loc>http://localhost:4000/UofU/docs/applying/</loc>
 </url>
 <url>
-<loc>http://localhost:4000/docs/test1</loc>
+<loc>http://localhost:4000/UofU/docs/test1</loc>
 </url>
 <url>
-<loc>http://localhost:4000/</loc>
+<loc>http://localhost:4000/UofU/</loc>
 </url>
 <url>
-<loc>http://localhost:4000/docs/about/</loc>
+<loc>http://localhost:4000/UofU/docs/about/</loc>
 </url>
 <url>
-<loc>http://localhost:4000/_docs/accommodation/</loc>
+<loc>http://localhost:4000/UofU/_docs/accommodation/</loc>
 </url>
 <url>
-<loc>http://localhost:4000/_docs/packing/</loc>
+<loc>http://localhost:4000/UofU/_docs/packing/</loc>
 </url>
 </urlset>
