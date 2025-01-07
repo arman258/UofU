@@ -7,6 +7,7 @@ sidebar:
 page_css:
   - "/assets/css/jekyll-glossary_tooltip.css"
 toc: true
+comments: true
 ---
 
 # مقدمه
